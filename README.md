@@ -19,4 +19,4 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Solr](https://img.shields.io/badge/Solr-D9411E?logo=apachesolr&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-IdentityServer
+![IdentityServer](https://img.shields.io/badge/OAuth-IdentityServer-orange)
